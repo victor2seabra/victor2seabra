@@ -19,7 +19,7 @@ I'm Victor Seabra, and I'm passionate about applying the power of data science o
 
 🔎 My Aspiration:
 
-*  To land a challenging role where I can utilize my analytical chemistry background and data science expertise to solve real-world problems in a collaborative and innovative environment.
+*  To land a challenging role where I can utilize my sharp critical thinking and data science expertise to solve real-world problems in a collaborative and innovative environment.
 
 🕸️ Connect with me:
 
