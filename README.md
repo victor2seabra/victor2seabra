@@ -12,7 +12,7 @@ I'm Victor Seabra, and I'm passionate about applying the power of data science o
 
 🧑‍💻 My Skills:
 
-*  Python Libraries: Expert in pandas and constantly improving on seaborn, matplotlib, numpy, and scipy which I consider an intermediate knowledge based on evaluations made through the DataCamp platform. Eager to expand my knowledge further.
+*  Python & Python Libraries: Expert in pandas and constantly improving on seaborn, matplotlib, numpy, and scipy which I consider an intermediate knowledge based on evaluations made through the DataCamp platform. Eager to expand my knowledge further.
 *  Data Visualization: Skilled in crafting insightful and compelling data visualizations.
 *  Database & Spreadsheets: Intermediate mastery of SQL and Google Sheets, advanced Excel user.
 *  Power BI: Beginner, but rapidly growing my skills and knowledge with dedication and curiosity.
