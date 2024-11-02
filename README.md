@@ -1,13 +1,13 @@
-Analytical Chemist & Data Enthusiast
+Data Engineer
 
 Hi everyone, 👋😀
 
-I'm Victor Seabra, and I'm passionate about applying the power of data science on personal projects and seeking to know more and more about it.
+I'm Victor Seabra, and I'm passionate about applying the power of data engineering and analytics on personal projects and seeking to know more and more about it.
 
 📖 My Story:
 
-*  Finishing my Master's Degree in Analytical and Inorganic Chemistry at the University of São Paulo (USP) in Brazil.
-*  Driven by a love for statistics and programming, especially Python, which led me to pursue data science alongside my chemistry studies.
+*  MSc. at the University of São Paulo (USP) in Brazil.
+*  Driven by a love for statistics and programming, especially Python, which led me to pursue data science.
 *  Always learning and growing, constantly reading up on the latest advancements and taking courses to hone my skills.
 
 🧑‍💻 My Skills:
