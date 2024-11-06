@@ -4,22 +4,22 @@ Hi everyone, 👋😀
 
 I'm Victor Seabra, and I'm passionate about applying the power of data engineering and analytics on personal projects and seeking to know more and more about it.
 
+🔎 My Aspiration:
+
+*  Deliver high-impact data solutions to address critical business challenges.
+
 📖 My Story:
 
 *  MSc. at the University of São Paulo (USP) in Brazil.
-*  Driven by a love for statistics and programming, especially Python, which led me to pursue data science.
+*  Driven by a love for data engineering, linux and programming languages, especially Python, which led me to pursue the data engineering path.
 *  Always learning and growing, constantly reading up on the latest advancements and taking courses to hone my skills.
 
 🧑‍💻 My Skills:
 
-*  Python & Python Libraries: Expert in pandas and constantly improving on seaborn, matplotlib, numpy, and scipy which I consider an intermediate knowledge based on evaluations made through the DataCamp platform. Eager to expand my knowledge further.
-*  Data Visualization: Skilled in crafting insightful and compelling data visualizations.
-*  Database & Spreadsheets: Intermediate mastery of SQL and Google Sheets, advanced Excel user.
-*  Power BI: Beginner, but rapidly growing my skills and knowledge with dedication and curiosity.
-
-🔎 My Aspiration:
-
-*  To land a challenging role where I can utilize my sharp critical thinking and data science expertise to solve real-world problems in a collaborative and innovative environment.
+*  Through libraries as PySpark, Polars, Pandas, NumPy, Pydantic V2, uv, Poetry, Scrapy, Selenium, and others, I can do data wrangling, data modeling and organize projects, ultimately driving efficiency within the enterprise.
+*  I possess a strong foundation in SQL, including OLAP and OLTP database design, as well as data governance concepts and tools like Unity Catalog.
+*  I have applied my knowledge of data engineering principles, gained through books and courses, to effectively work with Spark and Airflow. I have experience in designing, developing, and maintaining data pipelines to extract, transform, and load data efficiently (ETL).
+*  Have certification on Databricks Fundamentals, Python Data Associate from DataCamp and Data Literacy, also from DataCamp.
 
 🕸️ Connect with me:
 
