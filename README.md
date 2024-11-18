@@ -16,7 +16,7 @@ I'm Victor Seabra, and I'm passionate about applying the power of data engineeri
 
 🧑‍💻 My Skills:
 
-*  Through libraries as PySpark, Polars, Pandas, NumPy, Pydantic V2, uv, Poetry, Scrapy, Selenium, and others, I can do data wrangling, data modeling and organize projects, ultimately driving efficiency within the enterprise.
+*  Through libraries as PySpark, Polars, Pandas, NumPy, FastAPI, Pydantic V2, uv, Poetry, Scrapy, Selenium, and others, I can do data wrangling, data modeling and organize projects, ultimately driving efficiency within the enterprise.
 *  I possess a strong foundation in SQL, including OLAP and OLTP database design, as well as data governance concepts and tools like Unity Catalog.
 *  I have applied my knowledge of data engineering principles, gained through books and courses, to effectively work with Spark and Airflow. I have experience in designing, developing, and maintaining data pipelines to extract, transform, and load data efficiently (ETL).
 *  Have certification on Databricks Fundamentals, Python Data Associate from DataCamp and Data Literacy, also from DataCamp.
