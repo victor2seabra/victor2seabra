@@ -4,7 +4,7 @@ Disponibilizo neste perfil minhas anotações, resumos, e materiais de estudo de
 
 Minha missão é que este conteúdo contribua significativamente para o seu desenvolvimento e entendimento deste vasto e dinâmico mundo do TI.
 
-📚 O Que Você Encontrará Aqui
+📚 O que você vai encontrar por aqui agora e/ou no futuro:
 
 | Categoria | Descrição |
 | :--- | :--- |
