@@ -12,5 +12,5 @@ Minha missão é que este conteúdo contribua significativamente para o seu dese
 | **Data Orchestration & Processing** | Apache Airflow e Apache Spark. |
 | **Infraestrutura & Redes** | Fundamentos de Redes de Computadores essenciais. |
 | **Conteinerização & Orquestração** | Docker, Podman e Kubernetes. |
-| **Cloud Computing** | Serviços e arquiteturas na AWS (Amazon Web Services). |
+| **Cloud Computing** | Serviços da AWS (Amazon Web Services). |
 | **Projetos Práticos** | Repositório de Projetos Pessoais Aplicados desenvolvidos por mim, mostrando a tecnologia em ação. |
