@@ -2,7 +2,7 @@ Olá! Eu sou o Victor, e este é o meu espaço dedicado a compartilhar conhecime
 
 Disponibilizo neste perfil minhas anotações, resumos e materiais de estudo de diversas tecnologias com o intuito de democratizar o conhecimento.
 
-Minha missão é que este conteúdo contribua significativamente para o seu desenvolvimento e entendimento deste vasto e dinâmico mundo do TI.
+Meu objetivo é desbravar com você o mundo de tecnologias sempre nos desenvolvendo de forma teórica, prática e acessível.
 
 📚 O que você vai encontrar por aqui agora e/ou no futuro:
 
