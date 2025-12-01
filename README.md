@@ -10,7 +10,7 @@ Meu objetivo é desbravar com você o mundo de tecnologias sempre nos desenvolve
 | :--- | :--- |
 | **Linguagens de Programação** | Foco em Python e Go. |
 | **Data Orchestration & Processing** | Apache Airflow e Apache Spark. |
-| **Infraestrutura & Redes** | Fundamentos de Redes de Computadores essenciais. |
+| **Infraestrutura & Redes** | Terraform e Fundamentos de Redes de Computadores essenciais. |
 | **Conteinerização & Orquestração** | Docker, Podman e Kubernetes. |
 | **Cloud Computing** | Serviços da AWS (Amazon Web Services). |
 | **Projetos Práticos** | Repositório de Projetos Pessoais Aplicados desenvolvidos por mim, mostrando a tecnologia em ação. |
