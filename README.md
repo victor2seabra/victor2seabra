@@ -8,9 +8,9 @@ Minha missão é que este conteúdo contribua significativamente para o seu dese
 
 | Categoria | Descrição |
 | :--- | :--- |
-| **Linguagens de Programação** | Foco em Python (com vasto ecossistema) e Go (para performance e concorrência). |
-| **Data Orchestration & Processing** | Apache Airflow (para fluxos de trabalho) e Apache Spark (para processamento de Big Data). |
+| **Linguagens de Programação** | Foco em Python e Go. |
+| **Data Orchestration & Processing** | Apache Airflow e Apache Spark. |
 | **Infraestrutura & Redes** | Fundamentos de Redes de Computadores essenciais. |
-| **Conteinerização & Orquestração** | Docker (para isolamento de ambientes) e Kubernetes (para orquestração em escala). |
+| **Conteinerização & Orquestração** | Docker, Podman e Kubernetes. |
 | **Cloud Computing** | Serviços e arquiteturas na AWS (Amazon Web Services). |
 | **Projetos Práticos** | Repositório de Projetos Pessoais Aplicados desenvolvidos por mim, mostrando a tecnologia em ação. |
